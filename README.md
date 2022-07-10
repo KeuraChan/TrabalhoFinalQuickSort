@@ -4,7 +4,7 @@ Repositório criada para publicação do programa criado para entrada e testes d
 O programa aqui apresentado é uma tradução e edição do código apresentado em: https://hackr.io/blog/quick-sort-in-c
 Os créditos por criação e interpretação do programa são do criador original;
 
-# O Algoritmo apresentado funciona seguindo os seguintes passos. 
+## O Algoritmo apresentado funciona seguindo os seguintes passos. 
 
 1.  Começamos a função `main` antes de `quicksort` ser chamado, o usuário insere quantos elementos serão dados como entrada para serem organizados.
 2.  É guardado um _array_ de até 25 elementos no máximo, nós guardamos o primeiro e último elemento nas variáveis `first` e `last` e então chamamos a função `quicksort`.
